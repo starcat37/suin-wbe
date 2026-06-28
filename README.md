@@ -25,7 +25,7 @@
 |:----:|------|------|------|
 | ✅ | 1장 | 웹페이지 다운로드 — URL, HTTP 요청/응답, 암호화 | [http.html](https://browser.engineering/http.html) |
 | ✅ | 2장 | 화면에 그리기 — 창 생성, 캔버스, 스크롤 | [graphics.html](https://browser.engineering/graphics.html) |
-| ☐ | 3장 | 텍스트 포맷팅 — 폰트, 줄바꿈, 레이아웃 객체 | [text.html](https://browser.engineering/text.html) |
+| ✅ | 3장 | 텍스트 포맷팅 — 폰트, 줄바꿈, 레이아웃 객체 | [text.html](https://browser.engineering/text.html) |
 
 ### PART 2 — 문서 표시
 
